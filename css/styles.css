@@ -130,8 +130,8 @@ nav {
 .brand img {
   position: relative;
   left: 0;
-  height: 8vh;
-  width: 11.5vw;
+  height: 15vh;
+  width: 15vw;
 }
 .menu {
   display: flex;
@@ -417,7 +417,7 @@ nav {
   align-items: center;
 }
 .footer-sevatech-logo {
-  width: 180px;
+  width: 140px;
 }
 #contact{
   background-color: #ffffff;
@@ -431,7 +431,7 @@ nav {
     overflow-x: hidden;
   }
   .brand img {
-    width: 50vw;
+    width: 100vw;
   }
   .menu {
     color: white;
